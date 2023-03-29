@@ -10,6 +10,19 @@ public class Ex01Variable {
 		int vi1 = 10;
 		System.out.println(vi2);
 		
+		long vl1 = 10;
+		long vl2 = 1000000000L;
+		System.out.println(vl2);
+	
+		float vf1 = 3.14F;
+		double vd1 = 3.14;
+		
+		char vc1 = 'A';
+		char vc2 = 65;
+		System.out.println(vc2);
+		
+		boolean isTrue = true;
+		boolean isFalse = false;
 		
 		
 	}
