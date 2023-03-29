@@ -1,0 +1,17 @@
+package step01;
+
+public class Ex01Variable {
+
+	public static void main(String[] args) {
+
+		byte vbl = 10;
+		short vs1 = 128;
+		
+		int vi1 = 10;
+		System.out.println(vi2);
+		
+		
+		
+	}
+
+}
